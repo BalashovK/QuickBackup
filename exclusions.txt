@@ -1,0 +1,10 @@
+^.vs$
+^bin$
+^obj$
+.zip$
+.rar$
+.jpeg$
+.jpg$
+.tif$
+.tiff$
+.png$
